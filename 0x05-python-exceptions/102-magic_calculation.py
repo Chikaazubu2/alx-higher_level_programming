@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# 102-magic_calculation.py
+# Chika Goodluck Nwaigwe <chikagnwaigwe@gmail.com>
 
 
 def magic_calculation(a, b):
@@ -13,4 +15,3 @@ def magic_calculation(a, b):
             result = b + a
             break
     return (result)
-
